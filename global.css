@@ -1,0 +1,39 @@
+body {
+    font-family: 'Fira Sans', Arial, sans-serif;
+    margin: 0;
+    color: #141414;
+    background: rgb(238, 238, 238);
+}
+
+h1, h2, h3, p {
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #141414;
+}
+
+.footer {
+    background: url(./img/capafundo.jpg);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: .9rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+}
