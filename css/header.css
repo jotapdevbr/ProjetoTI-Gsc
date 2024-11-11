@@ -25,3 +25,10 @@
         font-size: 0.875rem;
     }
 }
+
+@media screen and ( max-height: 780px ){
+    .header {
+        padding: 0px;
+        font-size: 0.875rem;
+    }
+}

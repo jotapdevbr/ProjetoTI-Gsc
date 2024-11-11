@@ -29,3 +29,13 @@
         font-size: .8rem;
     }
 }
+
+@media screen and ( max-height: 780px ){
+    .main {
+        background: url('../../img/informatica.jpg') no-repeat center;
+        background-size: cover;
+        padding: 50px 20px;
+        color: #f4f4f4;
+    }
+    
+}

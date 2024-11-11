@@ -72,3 +72,10 @@
         padding: 20px;
     }
 }
+
+@media screen and ( max-height: 780px ){
+    .portal-container {
+        max-width: 1200px;
+        padding: 30px 20px;
+    }
+}
